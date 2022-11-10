@@ -1,7 +1,7 @@
 ## Hi there, I'm Zhiyu Wang. 👋
 
 - 🌱 I’m a Ph.D student @Hunan University.
-- ❤️ I’m currently working on **remote image processing**.
+- ❤️ I’m currently working on **remote sensing image processing**.
 - 🧑‍💻 CVer, Neo-Vimer, ArchLinux Lover.
 - 📫 How to reach me: wangzhiyu.wzy1@gmail.com
 
